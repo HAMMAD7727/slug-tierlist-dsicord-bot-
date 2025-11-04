@@ -1,0 +1,129 @@
+{
+    "TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "CLIENT_ID": "YOUR_CLIENT_ID_HERE",
+    "TESTER_ROLE_ID": "YOUR_TESTER_ROLE_ID_HERE",
+    "RANKED_PLAYER_ROLE_ID": "YOUR_RANKED_PLAYER_ROLE_ID_HERE",
+    "TICKET_CATEGORY_ID": "YOUR_TICKET_CATEGORY_ID_HERE",
+    "TIER_ROLES": {
+        "vanilla": {
+            "HT1": "",
+            "LT1": "",
+            "HT2": "",
+            "LT2": "",
+            "HT3": "",
+            "LT3": "",
+            "HT4": "",
+            "LT4": "",
+            "HT5": "",
+            "LT5": ""
+        },
+        "pot": {
+            "HT1": "",
+            "LT1": "",
+            "HT2": "",
+            "LT2": "",
+            "HT3": "",
+            "LT3": "",
+            "HT4": "",
+            "LT4": "",
+            "HT5": "",
+            "LT5": ""
+        },
+        "sword": {
+            "HT1": "",
+            "LT1": "",
+            "HT2": "",
+            "LT2": "",
+            "HT3": "",
+            "LT3": "",
+            "HT4": "",
+            "LT4": "",
+            "HT5": "",
+            "LT5": ""
+        },
+        "nethop": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "crystal": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "axe": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "dpot": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "uhc": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "smp": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        },
+        "mace": {
+            "HT1": "YOUR_HT1_ROLE_ID",
+            "LT1": "YOUR_LT1_ROLE_ID",
+            "HT2": "YOUR_HT2_ROLE_ID",
+            "LT2": "YOUR_LT2_ROLE_ID",
+            "HT3": "YOUR_HT3_ROLE_ID",
+            "LT3": "YOUR_LT3_ROLE_ID",
+            "HT4": "YOUR_HT4_ROLE_ID",
+            "LT4": "YOUR_LT4_ROLE_ID",
+            "HT5": "YOUR_HT5_ROLE_ID",
+            "LT5": "YOUR_LT5_ROLE_ID"
+        }
+    }
+}

@@ -32,7 +32,7 @@ A Discord bot for creating and managing tier lists and testing queues.
 
 1. Clone this repository
 2. Run `npm install` to install dependencies
-3. Update the [config.json](file:///C:/Users/Mhk/tlug%20tierlist%20discord%20bot/config.json) file with your bot token and client ID
+3. Copy [config.example.json](file:///C:/Users/Mhk/Documents/slug%20tierlist%20discord%20bot/config.example.json) to [config.json](file:///C:/Users/Mhk/Documents/slug%20tierlist%20discord%20bot/config.json) and update with your bot token and client ID
 4. Create channels for each game mode (e.g., #sword-waitlist, #crystal-waitlist, etc.)
 5. Create a "tester" role in your Discord server
 6. Run `node deploy-commands.js` to register slash commands
