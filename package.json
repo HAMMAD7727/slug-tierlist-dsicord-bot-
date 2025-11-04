@@ -1,0 +1,21 @@
+{
+  "name": "stun-tierlist-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "firebase": "^11.0.1",
+    "firebase-admin": "^13.5.0",
+    "mongodb": "^6.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
